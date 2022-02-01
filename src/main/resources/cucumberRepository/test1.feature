@@ -1,6 +1,6 @@
 @asset @asset
 
-  Feature: click on google link
+  Feature: Test bnz Payee and Payments
 #    TC1: Verify you can navigate to Payees page using the navigation menu
 #    1. Click ‘Menu’
 #    2. Click ‘Payees’
